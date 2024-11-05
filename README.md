@@ -1,10 +1,37 @@
-# Superstore_Dataset
+# Superstore Dataset
+
+[Project Overview](#project-overview)
+
+[Data Source](#data-source)
+
+[Metrics of Focus](#metrics-of-focus)
+
+[Tool Used](#tool-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Visual Analysis Inference](#visual-analysis-inference)
+
+[Results and Findings](#results-and-findings)
+
+[Recommendation](#recommendation)
+
+[Limitation](#limitation)
+
 
 ### Project Overview
 This aim of this project is to analyze the  sales performance of a retail store over the past and current year. By analysising various aspect of the data, we seek to identify (top selling product, product performance, regional performance and monthly sales trend, make data driven reccommendation and gain deeper understanding of the store performance
 
 ### Data Source
-The primary dataset used for this analysis is the "sales data.csv" file containing detailed information about each sales made by the store. This was provided by the Incubator Hub.
+The primary dataset used for this analysis is the "superstore dataset.csv" file containing detailed information about each sales made by the store. I downloaded from a site for data analyst, Kaggle.
+
+### Metrics of Focus
+
+
 
 ### Tool Used
 - Excel: 
@@ -51,9 +78,9 @@ Data Summary using pivot table
 
 
 
-### Results/Findings
+### Results and Findings
 
-### Reccommendation
+### Recommendation
 
 ### Limitation
 I created a calculated column named Sales by mltiplying unit pric and quantity. This is an important column to analysis the sales performance of the store
