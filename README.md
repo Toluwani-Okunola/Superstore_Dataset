@@ -28,6 +28,28 @@ EDA involves exploring the sales data to answer key questions, such as;
   4. What is the monthly sales trends?
 
 ### Data Analysis
+Data Summary using pivot table
+![Superstore](https://github.com/user-attachments/assets/1263b5b9-58a7-471a-aa0d-0115f4617104)
+
+![superstore 1](https://github.com/user-attachments/assets/28f46bb3-26cf-454d-9930-022a889e77c9)
+
+![superstore 2](https://github.com/user-attachments/assets/8d0f98de-ceaf-40c4-807d-0d4dfc362ebd)
+
+![superstore 3](https://github.com/user-attachments/assets/540dfcfa-9fdb-4e21-ae41-7e14b4b16e16)
+
+![superstore 4](https://github.com/user-attachments/assets/60b20b87-feed-4b21-a7f2-330d23ed8b23)
+
+### Visual Analysis Inference 
+![superstore visual](https://github.com/user-attachments/assets/fc62d873-0b39-4b5b-b7da-2e5d86a8a598)
+
+![superstore v1](https://github.com/user-attachments/assets/60bd25e8-b4f3-4873-b31f-5903352cbdb1)
+
+![superstore v2](https://github.com/user-attachments/assets/3d3c9239-259b-4f46-9e71-e37d09de7cb6)
+
+![superstore v3](https://github.com/user-attachments/assets/7ac691e0-7707-4aff-a479-f5492b909f0b)
+
+
+
 
 ### Results/Findings
 
