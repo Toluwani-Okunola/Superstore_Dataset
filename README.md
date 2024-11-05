@@ -1,7 +1,7 @@
 # Superstore_Dataset
 
 ### Project Overview
-This data analysis project aims to provide insights into the sales performance of a retail store over the past and current year. By analysising various aspect of the data, we seek to identify (top selling product, product performance, regional performance and monthly sales trend, make data driven reccommendation and gain deeper understanding of the store performance
+This aim of this project is to analyze the  sales performance of a retail store over the past and current year. By analysising various aspect of the data, we seek to identify (top selling product, product performance, regional performance and monthly sales trend, make data driven reccommendation and gain deeper understanding of the store performance
 
 ### Data Source
 The primary dataset used for this analysis is the "sales data.csv" file containing detailed information about each sales made by the store. This was provided by the Incubator Hub.
