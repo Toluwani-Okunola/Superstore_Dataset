@@ -22,49 +22,88 @@
 
 
 ### Project Overview
-The aim of this project is to analyze the  sales performance of a superstore giant over the past years. By analysising various aspect of the data, we seek to identify the products, regions, categories and customer segments they should target or avoid, make data driven reccommendation and gain deeper understanding of the store performance
+----------------------------------------------------------------------------------------
+The aim of this project is to analyze the  sales performance of a superstore giant over the past years. By analysising various aspect of the data, I seek to identify the products, regions, categories and customer segments they should target or avoid, make data driven reccommendation and gain deeper understanding of the store performance
+
 
 ### Data Source
+-------------------------------------------------------------------------------------
 The primary dataset used for this analysis is the "superstore dataset.csv" file and this is an open source daata that can be freely downloaded from Kaggle
 
 This dataset include the following column:
+
 Row ID - Unique ID for each row
+
 Order ID - Unique Order ID for each customer
+
 Order Date - Order date of the product
-Ship Modw - Shipping mode specified by the customer
+
+Ship Mode - Shipping mode specified by the customer
+
 Customer ID - Unique ID to identify each customer
-Customer Nmae - Name of the customer
+
+Customer Name - Name of the customer
+
 Segment - The segment where the customer belongs
+
 Country - Country of residence of the customer
+
 City - City of residence of the customer
+
 State - State of residence of the customer
+
 Region - Region where the customer belong
+
 Product ID - Unique ID of the product
+
 Category - Category of the product ordered
+
 Sub-Category - Sub-Category of the product ordered
+
 Product Name - Name of the product
+
 Sales - Sales of the product
+
 Quantity - Quantity of the product
+
 Discount - Discount of the product
+
 Profit - Profit/Loss incurred
 
-### Metrics of Focus
 
+### Metrics of Focus
+------------------------------------------------------------------------------------
+
+Product
+
+Region
+
+Categories
+
+Customer Segment
 
 
 ### Tool Used
+----------------------------------------------------------------------------
+
 - Excel: 
   - Data Cleaning and Preparation
   - Data Analysis
   - Data Visualization
   - Creating Report
 
+
 ### Data Cleaning and Preparation
+----------------------------------------------------------------------------
+
 In the initial stage, I performed the following task:
 1. Data Loading and Inspection
 2. Data Cleaning and Formating
 
+
 ### Exploratory Data Analysis
+--------------------------------------------------------------------------
+
 EDA involves exploring the sales data to answer key questions, such as;
   1. What is the overall sales trends?
   2. Which products are top sellers?
@@ -72,6 +111,8 @@ EDA involves exploring the sales data to answer key questions, such as;
   4. Which product has the lowest profit
 
 ### Data Analysis
+------------------------------------------------------------------------
+
 Data Summary using pivot table
 
 *CATEGORY PERFORMANCE*
@@ -89,6 +130,7 @@ Data Summary using pivot table
 ![superstore 4](https://github.com/user-attachments/assets/60b20b87-feed-4b21-a7f2-330d23ed8b23)
 
 ### Visual Analysis Inference 
+------------------------------------------------------------------------
 
 **CATEGORY PERFORMANCE**
 ![superstore visual](https://github.com/user-attachments/assets/fc62d873-0b39-4b5b-b7da-2e5d86a8a598)
@@ -106,5 +148,7 @@ Data Summary using pivot table
 
 
 ### Results and Findings
+---------------------------------------------------------------------------------
 
 ### Recommendation
+-----------------------------------------------------------------------
