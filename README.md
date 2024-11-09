@@ -201,11 +201,11 @@ Product Analysis
 
 Customer Segment Analysis
 
-  1. Consumer: 1,161,401 ...... 134,119
+  1. Consumer: sales = 1,161,401, Profit = 134,119
 
-  2. Corporate: 706,146 ....... 91,979
+  2. Corporate: sales = 706,146, Profit = 91,979
 
-  3. Home Office: 429,653 ...... 60,299 ( Least performing customer segment by sales and Profit)
+  3. Home Office: sales = 429,653, profit = 60,299 ( Least performing customer segment by sales and Profit)
 
 
 
