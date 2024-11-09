@@ -116,14 +116,19 @@ Data Summary using pivot table
 ![Superstore](https://github.com/user-attachments/assets/1263b5b9-58a7-471a-aa0d-0115f4617104)
 
 *SUB-CATEGORY*
+
 ![superstore 1](https://github.com/user-attachments/assets/28f46bb3-26cf-454d-9930-022a889e77c9)
 
+![superstore 5](https://github.com/user-attachments/assets/7a519b27-a1e9-4514-937a-200165850014)
+
 *CUSTOMER SEDMENT*
+
 ![superstore 2](https://github.com/user-attachments/assets/8d0f98de-ceaf-40c4-807d-0d4dfc362ebd)
 
 *REGION*
+
 ![superstore 3](https://github.com/user-attachments/assets/540dfcfa-9fdb-4e21-ae41-7e14b4b16e16)
-*REGION*
+
 ![superstore 4](https://github.com/user-attachments/assets/60b20b87-feed-4b21-a7f2-330d23ed8b23)
 
 ### Visual Analysis Inference 
@@ -134,6 +139,8 @@ Data Summary using pivot table
 
 **SUB-CATEGORY PERFORMANCE**
 ![superstore v1](https://github.com/user-attachments/assets/60bd25e8-b4f3-4873-b31f-5903352cbdb1)
+
+![superstore v4](https://github.com/user-attachments/assets/9fdb4717-d256-4955-a20c-92d77c447c49)
 
 **CUSTOMER SEGMENT PERFORMANCE**
 ![superstore v2](https://github.com/user-attachments/assets/3d3c9239-259b-4f46-9e71-e37d09de7cb6)
@@ -147,5 +154,77 @@ Data Summary using pivot table
 ### Results and Findings
 ---------------------------------------------------------------------------------
 
+Category Analysis
+
+*Top Performing Category by Revenue*
+
+Furniture: 742,000
+
+Office Supplies: 719,047
+
+Technology: 836,154  (Least Performing Category by Sales)
+
+*Top Performing Category by Profit*
+
+Technology: 145,455
+
+Office Supplies: 122,491
+
+Furniture: 18,451  (Least Performing Category by Profit)
+
+Product Analysis
+
+*Top Performing Product by Sales*
+
+Chairs: 328,449  (Category-Furniture)
+
+Phones: 330,007  (Category-Technology)
+
+Tables: -206,966 (Least Performing Product by Sales) (Category-Furniture)
+
+*Top Performing Product by Profit*
+
+Copiers: 55,618 (Category-Technology)
+
+Phone: 44,516   (Category-Technology)
+
+Fasteners: 950 (Category-Office Supplies) (Least performing product by profit)
+
+Customer Segment Analysis
+
+Consumer: 1,161,401 ...... 134,119
+
+Corporate: 706,146 ....... 91,979
+
+Home Office: 429,653 ...... 60,299 ( Least performing customer segment by sales and Profit)
+
+Regional Analysis
+
+West: sales = 725,458, Profit = 108,418
+
+East: sales = 678,781, profit = 91,523
+
+South: sales = 391,722, profit = 46,749
+
+Central: sales = 501,240, profit = 39,706 (Top perfroming region by sales ans the least performing region by profit)
+
+
+
 ### Recommendation
 -----------------------------------------------------------------------
+
+TARGET
+- For Product: Copiers, Phones, Accessories, Binders and Paper
+- For Category: Technology and Office Supplies
+- For Customer Segment: Customer and Corporate
+- For Region: West and East
+
+
+AVOID
+- For Product: Tables, Bookcases, Supplies, Fasteners, Machines
+- For Category: Furniture
+- For Customer Segment: Home Office
+- For Region: Central
+
+
+
