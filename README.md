@@ -74,13 +74,10 @@ Profit - Profit/Loss incurred
 ### Metrics of Focus
 ------------------------------------------------------------------------------------
 
-Product
-
-Region
-
-Categories
-
-Customer Segment
+1. Revenue Growth Rate
+2. Profit Margin
+3. Average Order Value
+4. Customer Segment
 
 
 ### Tool Used
